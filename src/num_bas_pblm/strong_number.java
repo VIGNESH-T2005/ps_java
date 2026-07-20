@@ -21,7 +21,7 @@ public class strong_number {
 	}
 
 	public static void main(String[] args) {
-		strong(145);
+		strong(14);
 	}
 
 }
